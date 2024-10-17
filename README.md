@@ -84,3 +84,11 @@ and "Go Into" to limit the view of the participant to that project only.
 
 #### Step 5: Recalibrate halfway through the study, i.e., after method 4.
 
+## Part II - Data Processing
+
+itrace data processing can be found :
+
+Data after extraction and processing for fixations can be found at:
+https://drive.google.com/file/d/1Z6o9RmHAktPTVVDDm2wrGxRVy0EtolRa/view?usp=share_link
+
+The following guide is for post-processing on fixation data for results in the paper:-
