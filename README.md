@@ -41,7 +41,7 @@ Right-click itrace>src and select Build Path> Remove from Build Path. Then, for 
 These folders contain <project>.txt files, where <project> is a placeholder for name of the project. Now, you can populate call graphs by selecting method name for any method and right click, then select open call hierarchy.
 
 
-# Creating random files
+### Creating random files
 
 For each participant we randomize the order of projects they do (except scrimage is always the first project), as well randomize the order of methods they process except the first method. To generate these files you can use randoms/randomize.py. 
 
@@ -51,15 +51,15 @@ python3 randomize.py --path=.\P21
 
 Change the name of the target folder "P21" to the Participant ID to create randomized project.txt files for that participant.
 
-# Before each session
+### Before each session
 
-## Step 1: Open the itrace core, in the tab Session Setup, set the path to save this session date, the participant ID and Task as project name.
+#### Step 1: Open the itrace core, in the tab Session Setup, set the path to save this session date, the participant ID and Task as project name.
 
-## Step 2: In iTrace tracking tab, select tobii eye tracker device and turn on the screen recording as well as the Deja-Vu Replay options. Note, DejaVu is part of the itrace core application and will produce an out.csv file in the session directory specified above. This file can be used by the core to do a DejaVu replay of all participant actions during the session including mouse,keyboard, and eye tracking recordings.
+#### Step 2: In iTrace tracking tab, select tobii eye tracker device and turn on the screen recording as well as the Deja-Vu Replay options. Note, DejaVu is part of the itrace core application and will produce an out.csv file in the session directory specified above. This file can be used by the core to do a DejaVu replay of all participant actions during the session including mouse,keyboard, and eye tracking recordings.
 
-## Step 3: Open the itrace plugin in Eclipse and connect to core.
+#### Step 3: Open the itrace plugin in Eclipse and connect to core.
 
-## Step 4: Right click these folders depending on the project:
+#### Step 4: Right click these folders depending on the project:
 
 - src>srcimage>scrimage-core>src>main>java>com>sksamuel
 - src>mallet>src>cc>mallet
