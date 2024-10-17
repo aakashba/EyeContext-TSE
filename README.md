@@ -5,7 +5,7 @@ This replication package has two parts, first the replication protocol to conduc
 ## Part I - Replication procedure for the itrace study:
 Tested for OS: Microsoft Windows 10 pro 10.0.19045
 
-### Phase I setup
+### Phase I: itrace Setup
 #### Step 1: Download Eclipse IDE for Java Developers
 
 https://www.eclipse.org/downloads/packages/release/2023-06/r
