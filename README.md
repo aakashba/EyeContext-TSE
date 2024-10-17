@@ -69,17 +69,17 @@ Change the name of the target folder "P21" to the Participant ID to create rando
 
 and "Go Into" to limit the view of the participant to that project only.
 
-# Experimental Procedure
+### Experimental Procedure
 
-## Step 0: Walk the participants through Step 1-5 if it is their first time as a mock before starting the study.
+#### Step 0: Walk the participants through Step 1-5 if it is their first time as a mock before starting the study.
 
-## Step 1: Show the participant StudyInstructions.md and the txt file to make sure they understand the task
+#### Step 1: Show the participant StudyInstructions.md and the txt file to make sure they understand the task
 
-## Step 2: Calibrate with Tobii Eye-Tracker Manager
+#### Step 2: Calibrate with Tobii Eye-Tracker Manager
 
-## Step 3: Calibrate with itrace-core
+#### Step 3: Calibrate with itrace-core
 
-## Step 4: Instruct the participant to start and stop tracking after every summary written
+#### Step 4: Instruct the participant to start and stop tracking after every summary written
 
-## Step 5: Recalibrate halfway through the study, i.e., after method 4.
+#### Step 5: Recalibrate halfway through the study, i.e., after method 4.
 
