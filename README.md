@@ -86,7 +86,7 @@ and "Go Into" to limit the view of the participant to that project only.
 
 ## Part II - Data Processing
 
-Our study consisted of 10 participants, each of whome processed 5 sessions of 1-1.5 hours. Participant ID is offset by 2 and P1 and P2 chose not to continue with the study beyond the pilot. Therefore P3 is Participant 1 in the paper, P4 is participant 2..... P12 is participant 10.
+Our study involved 10 participants, each of whome processed 5 sessions of 1-1.5 hours. Participant ID is offset by 2 because P1 and P2 could not continue with the study beyond the pilot session. Therefore P3 is Participant 1 in the paper, P4 is participant 2..... P12 is participant 10.
 
 Data after extraction and processing for fixations can be found at:
 https://drive.google.com/file/d/1Z6o9RmHAktPTVVDDm2wrGxRVy0EtolRa/view?usp=share_link
