@@ -94,20 +94,20 @@ Note: This data is aquired by post-processing using itrace toolkit using the par
 The following guide is for post-processing on fixation data for results in the paper:-
 
 ### To extract fixations from each session
-'''
+```
 python3 extractfixations.py 
-'''
+```
 This script walks all the database files for each session and compiles one file with all relevant data called "fixations.pkl" (provided in the dataset)
 
 ### To filter data to only include tokens from java code
 
-''' 
+``` 
 python3 java_fixations.py
-'''
+```
 
 ### The following scripts are used to compute fixation count, duration, regression, lines visited and methods visited for RQs 1:
 
-'''
+```
 python3 fixation_count.py
 
 python3 fixation_duration.py
@@ -118,11 +118,11 @@ python3 method_count.py
 
 python3 regressions.py
 
-'''
+```
 
 ### The following scripts are used to correlate quality ratings from the summary csv with fixation count, duration, regression, lines visited and methods visited for RQ 2:
 
-'''
+```
 python3 fcount_quality.py
 
 python3 fduration_quality.py
@@ -132,11 +132,11 @@ python3 lcount_quality.py
 python3 mcount_quality.py
 
 python3 regression_quality.py
-'''
+```
 
 ### To extract contextual information for RQ 3 in the paper
-'''
+```
 python3 extract_context.py
 
 python3 contextfixation.py
-'''
+```
