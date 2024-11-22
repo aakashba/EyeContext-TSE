@@ -140,3 +140,5 @@ python3 extract_context.py
 
 python3 contextfixation.py
 ```
+
+Note: the graphs in the paper were generated using excel and google sheets, these scripts will not be able to generate graphs for you, rather they can generate data for Tables and CSV files for further analysis.
